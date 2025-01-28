@@ -2037,7 +2037,7 @@
             <phase>generate-resources</phase>
             <configuration>
               <resourceBundles>
-                <resourceBundle>org.eclipse.jetty:build-resources:11.0.23</resourceBundle>
+                <resourceBundle>org.eclipse.jetty:build-resources:${project.version}</resourceBundle>
               </resourceBundles>
             </configuration>
           </execution>
