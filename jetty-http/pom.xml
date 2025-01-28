@@ -8,8 +8,8 @@
     <version>11.0.23</version>
   </parent>
   <artifactId>jetty-http</artifactId>
-  <name>Jetty :: Http Utility</name>
   <version>11.0.23+sp1</version>
+  <name>Jetty :: Http Utility</name>
 
   <properties>
     <bundle-symbolic-name>${project.groupId}.http</bundle-symbolic-name>
